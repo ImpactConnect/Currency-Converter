@@ -1,0 +1,11 @@
+/* App.css */
+.card-container {
+  width: 600px;
+  margin: 0 auto;
+  padding: 50px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(240, 97, 97, 0.1);
+  background-color: black;
+  color: aliceblue;
+}
